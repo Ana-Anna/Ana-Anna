@@ -7,7 +7,7 @@ I care deeply about writing code that is clear, easy to follow and has a sense o
 #🌱 Currently learning 
 - C#
 - .NET Framework / .NET Core
-- SQL & database loguc
+- SQL & database logic
 - Algorithms & problem solving
 - Git & version control
 - MVC architecture
