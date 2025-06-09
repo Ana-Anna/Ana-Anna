@@ -1,16 +1,34 @@
-## Hi there 👋
+# 🌸 Ana | aspiring .NET Developer
 
-<!--
-**Ana-Anna/Ana-Anna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome! I'm Ana, an aspiring .NET developer with a calm, structured approach.
+I care deeply about writing code that is clear, easy to follow and has a sense of balance.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#🌱 Currently learning 
+- C#
+- .NET Framework / .NET Core
+- SQL & database loguc
+- Algorithms & problem solving
+- Git & version control
+- MVC architecture
+
+# 🛠️ My Projects
+I'm currently building a collection of projects from [The C# Academy](https://www.thecsharpacademy.com/#)
+
+Each project is placed into my main portofolio repository: 
+📁
+
+
+#🧾 Certifications
+
+-freeCodeCamp| [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/fccdb7f3d1b-e155-4ed1-af86-8283932fbd04/foundational-c-sharp-with-microsoft)
+
+
+# 💌 Contact
+rusu.annaa@gmail.com
+
+
+#🌸 My Approach
+I value clarity, in code, in structure and in intention.
+My journey into development isn't just technical, it's  personal. It's how I train my mind, express myself and grow into who I'm becoming.
+Each project is a practice in presence, precision and quiet confidence.
