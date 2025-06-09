@@ -16,7 +16,8 @@ I care deeply about writing code that is clear, easy to follow and has a sense o
 I'm currently building a collection of projects from [The C# Academy](https://www.thecsharpacademy.com/#)
 
 Each project is placed into my main portofolio repository: 
-📁
+
+📁 [CSharp-Academy-Portfolio](https://github.com/Ana-Anna/CSharp-Academy-Portfolio/tree/main)
 
 
 #🧾 Certifications
