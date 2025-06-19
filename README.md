@@ -30,6 +30,7 @@ rusu.annaa@gmail.com
 
 
 #🌸 My Approach
+
 I value clarity, in code, in structure and in intention.
 My journey into development isn't just technical, it's  personal. It's how I train my mind, express myself and grow into who I'm becoming.
 Each project is a practice in presence, precision and quiet confidence.
